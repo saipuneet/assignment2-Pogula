@@ -8,3 +8,9 @@ Rajiv Gandhi Airport is closet to the museum.
 Step by step directing from airport to the museum from the airport pick up a bus to mehidpatnam
 ***
 when you dropoff the bus walk 3kms straight there you can see salar jung museum.
+
+# Unordered List
+* Charminar
+* Golkonda Fort
+* NTR Gardens
+* Birla Mandir
