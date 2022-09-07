@@ -6,7 +6,7 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 ***
 # Horizontal Lines
  1. Rajiv Gandhi Airport is closet to the museum.
- 
+
  2.Step by step directing from airport to the museum from the airport pick up a bus to mehidpatnam
  when you dropoff the bus walk 3kms straight there you can see salar jung museum.
 
@@ -18,3 +18,9 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 
 
 [AboutMe](AboutMe.md)
+
+***
+# Tables
+
+The tables below tells about the location to visit them when you go to those cities
+
