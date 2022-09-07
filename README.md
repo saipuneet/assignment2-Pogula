@@ -22,14 +22,7 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 ***
 # Tables
 
-The tables below tells about the location to visit them when you go to those cities
-
-| Delhi | Chennai | Gokarana | Hampi |
-| ---   | ---     | ---   | ---      |
-| tajmahal | Golden temple | Arabian Sea| Lotus Temple |
-| Red Fort | Marina Beach  | Shiva temple | Yamuna River |
-|IndiaGate | Kapaleeshawar temple | Beach | Elephant temple |
-
+The tables below tells about the location to visit them when you go to those cities.
 
 |  # Name of a city | # location to visit | # amount of time |
 |  ---            | ---               | ---            |
