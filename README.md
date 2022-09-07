@@ -46,3 +46,33 @@ The tables below tells about the location to visit them when you go to those cit
 
 
 *Swami Vivekananda*
+
+# code fencing
+
+[how to sort in svg](https://stackoverflow.com/questions/17915276/sorting-data-bound-to-svg-elements-using-d3-js)
+```
+@function quick-sort($list) {
+  $less:  ();
+  $equal: ();
+  $large: ();
+
+  @if length($list) > 1 {
+    $seed: nth($list, ceil(length($list) / 2));
+
+    @each $item in $list {
+      @if ($item == $seed) {
+        $equal: append($equal, $item);
+      } @else if ($item < $seed) {
+        $less: append($less, $item);
+      } @else if ($item > $SEED) {
+        $large: append($large, $item);
+      }
+    }
+
+    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
+  }
+
+  @return $list;
+}
+```
+[sorting function](https://css-tricks.com/snippets/sass/sorting-function/)
