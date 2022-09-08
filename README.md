@@ -3,12 +3,13 @@
 ###### Salar Jung museum
 The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern bank of the Musi River in the city of **Hyderabad**, **Telangana**, India. It is one of the notable National Museums of India.[1] Originally a private art collection of the Salar Jung family, it was endowed to the nation after the death of Salar Jung III. It was inaugurated on 16 December 1951.
 
+Ordered List
 ***
-# Horizontal Lines
- 1. Rajvi Gandhi International airport
-
- 2.Step by step directing from airport to the museum from the airport pick up a bus to mehidpatnam
- when you dropoff the bus walk 3kms straight there you can see salar jung museum.
+# Rajiv Gandhi InternationaL Airport
+ Direction from airport to museum
+ 1. Take a bus from airport to mehidpatanam.
+ 2. From mehdipatnam take a auto to ameerpet.
+ 3. From ameerpet bus stand walk 500m straight there goes salar jung museum.
 
 # Unordered List
 * Charminar
