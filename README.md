@@ -33,12 +33,10 @@ The tables below tells about the location to visit them when you go to those cit
 
 ***
 # BlockQuotes
-> Arise!Awake!and do not stop untill the goal is reached.
+> Arise!Awake!and do not stop untill the goal is reached -- *swami vivekanada*
 
-> Be the change you wish to see the world.
+> Be the change you wish to see the world -- *swami vivekanada*
 
-
-*Swami Vivekananda*
 
 # code fencing
 
