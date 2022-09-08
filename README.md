@@ -4,8 +4,8 @@
 The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern bank of the Musi River in the city of **Hyderabad**, **Telangana**, India. It is one of the notable National Museums of India.[1] Originally a private art collection of the Salar Jung family, it was endowed to the nation after the death of Salar Jung III. It was inaugurated on 16 December 1951.
 
 ***
-# Ordered List
- 1. Rajiv Gandhi Airport is closet to the museum.
+# Horizontal Lines
+ 1. Rajvi Gandhi International airport
 
  2.Step by step directing from airport to the museum from the airport pick up a bus to mehidpatnam
  when you dropoff the bus walk 3kms straight there you can see salar jung museum.
@@ -39,6 +39,8 @@ The tables below tells about the location to visit them when you go to those cit
 
 ***
 # code fencing
+
+How to write code get  quick-sort value?
 
 [how to sort in svg](https://stackoverflow.com/questions/17915276/sorting-data-bound-to-svg-elements-using-d3-js)
 ```
